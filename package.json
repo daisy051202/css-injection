@@ -1,0 +1,19 @@
+{
+  "name": "liberocssi",
+  "version": "1.0.0",
+  "description": "css-injection",
+  "main": "exploit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daisy051202/css-injection.git"
+  },
+  "author": "libero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisy051202/css-injection/issues"
+  },
+  "homepage": "https://github.com/daisy051202/css-injection#readme"
+}
